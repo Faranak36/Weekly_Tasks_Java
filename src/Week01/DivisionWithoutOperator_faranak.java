@@ -4,7 +4,7 @@ public class DivisionWithoutOperator_faranak {
 
     public static void main(String[] args) {
 
-        division(10, 0);
+        division(10, 2);
     }
     public static void division(int a, int b) {
 
